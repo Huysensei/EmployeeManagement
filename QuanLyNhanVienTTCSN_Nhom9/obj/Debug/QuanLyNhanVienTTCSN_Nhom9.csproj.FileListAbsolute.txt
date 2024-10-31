@@ -1,0 +1,432 @@
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.csproj.AssemblyReference.cache
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.DangNhapForm.resources
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.Properties.Resources.resources
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.csproj.GenerateResource.cache
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.csproj.CoreCompileInputs.cache
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\QuanLyNhanVienTTCSN_Nhom9.exe.config
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\QuanLyNhanVienTTCSN_Nhom9.exe
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\QuanLyNhanVienTTCSN_Nhom9.pdb
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\Bunifu.Charts.WinForms.xml
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\Newtonsoft.Json.xml
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\RestSharp.xml
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Buffers.xml
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.CodeDom.xml
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Data.Odbc.xml
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Data.OleDb.xml
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Data.SqlClient.xml
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Drawing.Common.xml
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.IO.Packaging.xml
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.IO.Ports.xml
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Memory.xml
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Security.AccessControl.xml
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Security.Permissions.xml
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.csproj.Fody.CopyLocal.cache
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.csproj.CopyComplete
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.exe
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.pdb
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.AdminForm.resources
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.QuanLyForm.resources
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.NhapMaChucVu.resources
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.NhapMaLuong.resources
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.NhapMaNghiPhep.resources
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.NhapMaNV.resources
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.NhapMaPhongBan.resources
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.NhapMaTK.resources
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ThemTaiKhoan.resources
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ThemChucVu.resources
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ThemLuong.resources
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ThemNghiPhep.resources
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ThemPhongBan.resources
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ThemNhanVien.resources
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ProfileForm.resources
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.DoiMKForm.resources
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.PhanHoiForm.resources
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SapXepNVForm.resources
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SapXepLuongForm.resources
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SapXepNghiPhepForm.resources
+C:\Users\khanh084\Desktop\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SapXepTKForm.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\QuanLyNhanVienTTCSN_Nhom9.exe.config
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\QuanLyNhanVienTTCSN_Nhom9.exe
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\QuanLyNhanVienTTCSN_Nhom9.pdb
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\Bunifu.Charts.WinForms.xml
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\Bunifu.Dataviz.WinForms.xml
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\Bunifu.UI.WinForms.xml
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\Microsoft.Win32.Registry.xml
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\Microsoft.Win32.SystemEvents.xml
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\Newtonsoft.Json.xml
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\RestSharp.xml
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Buffers.xml
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.CodeDom.xml
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Configuration.ConfigurationManager.xml
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Data.Odbc.xml
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Data.OleDb.xml
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Data.SqlClient.xml
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Diagnostics.EventLog.xml
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Drawing.Common.xml
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.IO.FileSystem.AccessControl.xml
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.IO.Packaging.xml
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.IO.Ports.xml
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Memory.xml
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Numerics.Vectors.xml
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Security.AccessControl.xml
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Security.Cryptography.Cng.xml
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Security.Cryptography.Pkcs.xml
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Security.Cryptography.Xml.xml
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Security.Permissions.xml
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Security.Principal.Windows.xml
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.ServiceModel.Syndication.xml
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.ServiceProcess.ServiceController.xml
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Text.Encoding.CodePages.xml
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Threading.AccessControl.xml
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.csproj.AssemblyReference.cache
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.AdminForm.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.DangNhapForm.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.Properties.Resources.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.DoiMKForm.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.NhapMaChucVu.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.NhapMaLuong.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.NhapMaNghiPhep.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.NhapMaNV.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.NhapMaPhongBan.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.NhapMaTK.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ProfileForm.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.QuanLyForm.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SapXepLuongForm.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SapXepNghiPhepForm.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SapXepNVForm.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SapXepTKForm.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ThemChucVu.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ThemLuong.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ThemNghiPhep.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ThemNhanVien.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ThemPhongBan.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ThemTaiKhoan.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.csproj.GenerateResource.cache
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.csproj.CoreCompileInputs.cache
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.csproj.Fody.CopyLocal.cache
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.csproj.CopyComplete
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.exe
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.pdb
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.TimKiemChucVuForm.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.TimKiemLuongForm.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.TimKiemNghiPhepForm.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.TimKiemNhanVienForm.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.TimKiemTaiKhoanForm.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.NhanVienForm.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SuaLuongFrom.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SuaNghiPhepFrom.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SuaNhanVienForm.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.XoaLuongForm.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.XoaNghiPhepForm.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SuaNghiPhepForm2.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ChiTietNghiPhepForm.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.test.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SuaTaiKhoan.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SuaPhongBanForm.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SuaChucVuForm.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.TimKiemTangCaForm.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.DoiMatKhauAdmin.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ThemTangCaForm.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SuaTangCaForm.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.NhapTangCaForm.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ChiTietNhanVienForm.resources
+I:\ttcsn\Project\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ChiTietQuanLyForm.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\QuanLyNhanVienTTCSN_Nhom9.exe.config
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\QuanLyNhanVienTTCSN_Nhom9.exe
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\QuanLyNhanVienTTCSN_Nhom9.pdb
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\Bunifu.Charts.WinForms.xml
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\Bunifu.Dataviz.WinForms.xml
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\Bunifu.UI.WinForms.xml
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\Microsoft.Win32.Registry.xml
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\Newtonsoft.Json.xml
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\RestSharp.xml
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Buffers.xml
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.CodeDom.xml
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Data.Odbc.xml
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Data.OleDb.xml
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Data.SqlClient.xml
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Diagnostics.EventLog.xml
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Drawing.Common.xml
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.IO.Packaging.xml
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.IO.Ports.xml
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Memory.xml
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Numerics.Vectors.xml
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Security.AccessControl.xml
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Security.Permissions.xml
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Security.Principal.Windows.xml
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.ServiceModel.Syndication.xml
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Threading.AccessControl.xml
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.csproj.AssemblyReference.cache
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.AdminForm.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ChiTietNghiPhepForm.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ChiTietNhanVienForm.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ChiTietQuanLyForm.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.DangNhapForm.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.Properties.Resources.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.DoiMatKhauAdmin.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.DoiMKForm.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.NhanVienForm.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.NhapMaChucVu.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.NhapMaLuong.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.NhapMaNghiPhep.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.NhapMaNV.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.NhapMaPhongBan.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.NhapMaTK.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.NhapTangCaForm.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ProfileForm.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.QuanLyForm.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SapXepLuongForm.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SapXepNghiPhepForm.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SapXepNVForm.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SapXepTKForm.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SuaChucVuForm.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SuaLuongFrom.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SuaNghiPhepForm2.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SuaNghiPhepFrom.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SuaNhanVienForm.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SuaPhongBanForm.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SuaTaiKhoan.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SuaTangCaForm.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.test.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ThemChucVu.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ThemLuong.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ThemNghiPhep.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ThemNhanVien.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ThemPhongBan.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ThemTaiKhoan.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ThemTangCaForm.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.TimKiemChucVuForm.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.TimKiemLuongForm.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.TimKiemNghiPhepForm.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.TimKiemNhanVienForm.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.TimKiemTaiKhoanForm.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.TimKiemTangCaForm.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.XoaLuongForm.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.XoaNghiPhepForm.resources
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.csproj.GenerateResource.cache
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.csproj.CoreCompileInputs.cache
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.csproj.Fody.CopyLocal.cache
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.csproj.CopyComplete
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.exe
+D:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.pdb
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\QuanLyNhanVienTTCSN_Nhom9.exe.config
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\QuanLyNhanVienTTCSN_Nhom9.exe
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\QuanLyNhanVienTTCSN_Nhom9.pdb
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\Bunifu.Charts.WinForms.xml
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\Bunifu.Dataviz.WinForms.xml
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\Bunifu.UI.WinForms.xml
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\Microsoft.Win32.Registry.xml
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\Microsoft.Win32.SystemEvents.xml
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\Newtonsoft.Json.xml
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\RestSharp.xml
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Buffers.xml
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.CodeDom.xml
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Data.Odbc.xml
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Data.OleDb.xml
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Data.SqlClient.xml
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Diagnostics.EventLog.xml
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Drawing.Common.xml
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.IO.Packaging.xml
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.IO.Ports.xml
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Memory.xml
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Numerics.Vectors.xml
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Security.AccessControl.xml
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Security.Permissions.xml
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Security.Principal.Windows.xml
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.ServiceModel.Syndication.xml
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Threading.AccessControl.xml
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.csproj.AssemblyReference.cache
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.AdminForm.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ChiTietNghiPhepForm.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ChiTietNhanVienForm.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ChiTietQuanLyForm.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.DangNhapForm.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.Properties.Resources.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.DoiMatKhauAdmin.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.DoiMKForm.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.NhanVienForm.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.NhapMaChucVu.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.NhapMaLuong.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.NhapMaNghiPhep.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.NhapMaNV.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.NhapMaPhongBan.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.NhapMaTK.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.NhapTangCaForm.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ProfileForm.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.QuanLyForm.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SapXepLuongForm.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SapXepNghiPhepForm.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SapXepNVForm.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SapXepTKForm.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SuaChucVuForm.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SuaLuongFrom.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SuaNghiPhepForm2.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SuaNghiPhepFrom.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SuaNhanVienForm.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SuaPhongBanForm.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SuaTaiKhoan.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SuaTangCaForm.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.test.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ThemChucVu.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ThemLuong.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ThemNghiPhep.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ThemNhanVien.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ThemPhongBan.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ThemTaiKhoan.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ThemTangCaForm.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.TimKiemChucVuForm.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.TimKiemLuongForm.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.TimKiemNghiPhepForm.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.TimKiemNhanVienForm.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.TimKiemTaiKhoanForm.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.TimKiemTangCaForm.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.XoaLuongForm.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.XoaNghiPhepForm.resources
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.csproj.GenerateResource.cache
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.csproj.CoreCompileInputs.cache
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.csproj.Fody.CopyLocal.cache
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNh.35912E5B.Up2Date
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.exe
+E:\ĐH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.pdb
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\QuanLyNhanVienTTCSN_Nhom9.exe.config
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\QuanLyNhanVienTTCSN_Nhom9.exe
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\QuanLyNhanVienTTCSN_Nhom9.pdb
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\Bunifu.Charts.WinForms.xml
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\Bunifu.Dataviz.WinForms.xml
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\Bunifu.UI.WinForms.xml
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\Microsoft.Win32.Registry.xml
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\Microsoft.Win32.SystemEvents.xml
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\Newtonsoft.Json.xml
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\RestSharp.xml
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Buffers.xml
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.CodeDom.xml
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Data.Odbc.xml
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Data.OleDb.xml
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Data.SqlClient.xml
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Diagnostics.EventLog.xml
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Drawing.Common.xml
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.IO.Packaging.xml
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.IO.Ports.xml
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Memory.xml
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Numerics.Vectors.xml
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Security.AccessControl.xml
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Security.Permissions.xml
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Security.Principal.Windows.xml
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.ServiceModel.Syndication.xml
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\bin\Debug\System.Threading.AccessControl.xml
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.csproj.AssemblyReference.cache
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.AdminForm.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ChiTietNghiPhepForm.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ChiTietNhanVienForm.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ChiTietQuanLyForm.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.DangNhapForm.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.Properties.Resources.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.DoiMatKhauAdmin.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.DoiMKForm.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.NhanVienForm.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.NhapMaChucVu.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.NhapMaLuong.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.NhapMaNghiPhep.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.NhapMaNV.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.NhapMaPhongBan.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.NhapMaTK.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.NhapTangCaForm.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ProfileForm.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.QuanLyForm.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SapXepLuongForm.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SapXepNghiPhepForm.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SapXepNVForm.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SapXepTKForm.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SuaChucVuForm.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SuaLuongFrom.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SuaNghiPhepForm2.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SuaNghiPhepFrom.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SuaNhanVienForm.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SuaPhongBanForm.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SuaTaiKhoan.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.SuaTangCaForm.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.test.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ThemChucVu.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ThemLuong.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ThemNghiPhep.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ThemNhanVien.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ThemPhongBan.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ThemTaiKhoan.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.ThemTangCaForm.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.TimKiemChucVuForm.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.TimKiemLuongForm.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.TimKiemNghiPhepForm.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.TimKiemNhanVienForm.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.TimKiemTaiKhoanForm.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.TimKiemTangCaForm.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.XoaLuongForm.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.View.XoaNghiPhepForm.resources
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.csproj.GenerateResource.cache
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.csproj.CoreCompileInputs.cache
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.csproj.Fody.CopyLocal.cache
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNh.35912E5B.Up2Date
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.exe
+E:\DH\Thực tập cơ sở ngành\QuanLyNhanVienTTCSN_Nhom9\QuanLyNhanVienTTCSN_Nhom9\obj\Debug\QuanLyNhanVienTTCSN_Nhom9.pdb
